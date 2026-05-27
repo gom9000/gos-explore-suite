@@ -1,6 +1,5 @@
 # Explore Suite
-Personal hub of science, math, and logic explorations.<br/>
-This suite is the most speculative corner of my workbench. It documents my passion for the sciences and my quest to observe and understand them through the tools I know best.
+This suite is the most speculative corner of my workbench. It documents my passion for the sciences and my quest to observe and understand them through the tools I know.
 
 
 ---
