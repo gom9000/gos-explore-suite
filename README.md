@@ -10,7 +10,7 @@ This suite is the most speculative corner of my workbench. It documents my passi
 >**[SMFN](https://github.com/gom9000/SMFN)**<br/>
 >**Type**: Java Math Library | **Status**: Continuous Research (Sawdust alert!)
 >
->A "slow-burning" Java software library for abstract algebra and numerical analysis. It explores hierarchical structures from commutative rings and fields to quantum mechanics operators.
+>A "slow-burning" Java software library for algebra and numerical analysis. It is not designed for performance, but rather to represent abstract mathematical structures and use them to perform symbolic and numerical calculations, making it possible to handle symbolic polynomial arithmetic, solve differential equations or simulate quantum mechanics problems.
 
 >**[Mandelbrot Plots](https://github.com/gom9000/Mandelbrot_Plots)**<br/>
 >**Type**: Fractal Geometry | **Status**: Completed
