@@ -1,5 +1,5 @@
 # Explore Suite
-This suite is the most speculative corner of my workbench. It documents my passion for the sciences and my quest to observe and understand them through the tools I know.
+This suite is the most speculative corner of my workbench. It documents my passion for the sciences and my quest to observe them through the tools I know.
 
 
 ---
