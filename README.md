@@ -21,6 +21,7 @@ This suite is the most speculative corner of my workbench. It documents my passi
 
 > **[Stardust](https://github.com/gom9000/Stardust)**  
 >**Type**: Astrophysics Simulation | **Status**: Continuous Research
+>
 >An $N$-body simulation engine modeling gravitational accretion during planet formation. It focuses on mutual gravitational dynamics between planetesimals, while incorporating gas drag for orbital damping alongside simplified collision, merger, and fragmentation mechanics.
 ---
 
