@@ -20,7 +20,7 @@ This suite is the most speculative corner of my workbench. It documents my passi
 
 
 > **[Stardust](https://github.com/gom9000/Stardust)**  
->**Type**: Physics Simulation | **Status**: Continuous Research
+>**Type**: Astrophysics Simulation | **Status**: Continuous Research
 >
 >An $N$-body simulation engine exploring gravitational accretion during planet formation and the dynamics of simple orbital systems.
 
