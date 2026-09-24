@@ -10,7 +10,7 @@ This suite is the most speculative corner of my workbench. It documents my passi
 >**[SMFN](https://github.com/gom9000/SMFN)**  
 >**Type**: Java Mathematical & Scientific Library | **Status**: Continuous Research (Sawdust alert!)
 >
->A "slow-burning" Java experimental library for mathematical and scientific modelling. It is not designed for performance, but rather to represent abstract mathematical structures and use them to perform symbolic and numerical calculations, making it possible to handle symbolic polynomial arithmetic, solve differential equations or simulate quantum mechanics problems.
+>A "slow-burning" Java experimental library for mathematical and scientific modelling. It is not designed for performance, but to represent abstract mathematical structures and use them to perform symbolic and numerical calculations, making it possible to handle symbolic polynomial arithmetic, solve differential equations or simulate quantum mechanics problems.
 
 
 >**[Mandelbrot Plots](https://github.com/gom9000/Mandelbrot_Plots)**  
