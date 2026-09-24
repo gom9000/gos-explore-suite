@@ -8,7 +8,7 @@ This suite is the most speculative corner of my workbench. It documents my passi
 <br/><img src="resources/banner-xpl.svg" width="100%" alt="SW Banner">
 
 >**[SMFN](https://github.com/gom9000/SMFN)**  
->**Type**: Java Math Library | **Status**: Continuous Research (Sawdust alert!)
+>**Type**: Java Mathematical & Scientific Library | **Status**: Continuous Research (Sawdust alert!)
 >
 >A "slow-burning" Java experimental library for mathematical modelling. It is not designed for performance, but rather to represent abstract mathematical structures and use them to perform symbolic and numerical calculations, making it possible to handle symbolic polynomial arithmetic, solve differential equations or simulate quantum mechanics problems.
 
